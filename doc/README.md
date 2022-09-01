@@ -23,13 +23,9 @@
 
 ###  Links
 
-#### ESP32 ADC - Read Analog Values
+[ESP32 ADC - Read Analog Values](https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide)
 
-    https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide
-
-#### ESP32 I/O Potentiometer
-
-    https://esp32io.com/tutorials/esp32-potentiometer
+[ESP32 I/O Potentiometer](https://esp32io.com/tutorials/esp32-potentiometer)
 
 
 
